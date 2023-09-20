@@ -20,7 +20,7 @@ https://note.com/cleemy/n/n96474b06fa3b
 
 #### Interest:
 
-language, DSL, blockchain, Bitcoin, making tech doujinsi (but I haven't been able to print any books yet), retro game, Ruby, Python, Shell Script, vulnerability, single-board computer, VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, psychiatry, personality types, cognitive bias
+language, DSL, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), retro game, Ruby, Python, Shell Script, vulnerability, single-board computer, VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, psychiatry, personality types, cognitive bias
 
 ---
 
