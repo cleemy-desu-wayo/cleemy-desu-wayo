@@ -6,7 +6,7 @@
 
 For my thoughts on various web services and my plans for the future, please see the following article I posted on note.com in August 2023.  
 https://note.com/cleemy/n/n96474b06fa3b  
-(note: written in Japanese)
+(NOTE: written in Japanese)
 
 ---
 
