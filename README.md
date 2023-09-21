@@ -11,7 +11,7 @@ https://note.com/cleemy/n/n96474b06fa3b
 ---
 
 - Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
-- note.com: https://note.com/cleemy/ (essays, tech blog, etc)
+- note.com: https://note.com/cleemy/ (essays, tech blog, activity report, etc)
 - ALIS: https://alis.to/users/cleemy (essays I wrote some time ago)
 - Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/ (novel)
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
