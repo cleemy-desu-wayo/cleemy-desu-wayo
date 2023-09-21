@@ -4,7 +4,7 @@
 - huntr.dev: https://huntr.dev/users/cleemy-desu-wayo/
 - tech blog (cdwdoc): https://note.com/cleemy/m/ma6e2594d3b8a
 
-For my thoughts on various web services and my plans for the future, please see the following article I posted on note.com in August 2023.  
+For my thoughts on various web services and my plans for the future, see the following article I posted on note.com in Aug 2023.  
 https://note.com/cleemy/n/n96474b06fa3b  
 (NOTE: written in Japanese, and very long)
 
@@ -28,8 +28,8 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011.svg?logo=gnubash)
 ![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-black.svg)
 [![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-black.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
-[![9 movies that make up me](https://img.shields.io/badge/-9%20movies%20that%20make%20up%20me-3355CC.svg?style=plastic)](https://archive.md/vsnvi)
 [![5 manga that make up me](https://img.shields.io/badge/-5%20manga%20that%20make%20up%20me-227766.svg?style=plastic)](https://archive.md/L0tSL)
+[![9 movies that make up me](https://img.shields.io/badge/-9%20movies%20that%20make%20up%20me-3355CC.svg?style=plastic)](https://archive.md/vsnvi)
 
 ---
 
