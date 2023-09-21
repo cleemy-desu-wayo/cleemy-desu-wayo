@@ -11,7 +11,9 @@ https://note.com/cleemy/n/n96474b06fa3b
 ---
 
 - Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
-- Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/
+- note.com: https://note.com/cleemy/ (essays, tech blog, etc)
+- ALIS: https://alis.to/users/cleemy (essays I wrote some time ago)
+- Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/ (novel)
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
 - BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg (<a href="https://chainflyer.bitflyer.com/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg">history</a>)
