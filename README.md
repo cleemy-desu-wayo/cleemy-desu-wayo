@@ -24,7 +24,7 @@ https://note.com/cleemy/n/n96474b06fa3b
 
 ### Interested in:
 
-language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, psychiatry, personality types, cognitive bias
+language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), psychiatry, personality types, cognitive bias
 
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby)
@@ -32,15 +32,34 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011.svg?logo=gnubash)
 ![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-black.svg)
 [![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-black.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
-[![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-227766.svg)](https://archive.md/L0tSL)
+[![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-226a59.svg)](https://archive.md/L0tSL)
 [![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-3355CC.svg)](https://archive.md/vsnvi)
+
+---
+
+### I often use:
+
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613.svg?logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![Lubuntu](https://img.shields.io/badge/-Lubuntu-0065C2.svg?logo=lubuntu)](https://en.wikipedia.org/wiki/Lubuntu)
+[![Debian](https://img.shields.io/badge/-Debian-123356.svg?logo=debian)](https://en.wikipedia.org/wiki/Debian)
+[![Vim](https://img.shields.io/badge/-Vim-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/vim/vim)
+[![gruvbox-material](https://img.shields.io/badge/-gruvbox--material-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/sainnhe/gruvbox-material)
+[![FeatherPad](https://img.shields.io/badge/-FeatherPad-4976A8.svg)](https://github.com/tsujan/FeatherPad)
+[![Mozilla Firefox](https://img.shields.io/badge/-Mozilla%20Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
+[![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+[![GIMP](https://img.shields.io/badge/-GIMP-53537D.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
+[![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
+
 
 ---
 
 ### Note:
 
-I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.  
-I have absolutely nothing to do with an expense report software called "Cleemy".
+- Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
+- As of September 2023, I have no such thing as an organizational affiliation in the general sense.
+- The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
+- I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
+- I have absolutely nothing to do with an expense report software called "Cleemy".
 
 ---
 
