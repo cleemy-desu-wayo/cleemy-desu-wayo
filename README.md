@@ -45,7 +45,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![Vim](https://img.shields.io/badge/-Vim-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/vim/vim)
 [![gruvbox-material](https://img.shields.io/badge/-gruvbox--material-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/sainnhe/gruvbox-material)
 [![FeatherPad](https://img.shields.io/badge/-FeatherPad-4976A8.svg)](https://github.com/tsujan/FeatherPad)
-[![Mozilla Firefox](https://img.shields.io/badge/-Mozilla%20Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
+[![Firefox](https://img.shields.io/badge/-Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
 [![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 [![GIMP](https://img.shields.io/badge/-GIMP-53537D.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
 [![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
