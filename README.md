@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-09-21](https://img.shields.io/badge/Last%20Modified-2023--09--21-brightgreen)
+![Last Modified 2023-09-22](https://img.shields.io/badge/Last%20Modified-2023--09--22-brightgreen)
 
 - GitLab.com: https://gitlab.com/cleemy-desu-wayo
 - huntr.dev: https://huntr.dev/users/cleemy-desu-wayo/
@@ -22,7 +22,7 @@ https://note.com/cleemy/n/n96474b06fa3b
 
 ---
 
-### Interest:
+### Interested in:
 
 language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, psychiatry, personality types, cognitive bias
 
@@ -32,8 +32,8 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011.svg?logo=gnubash)
 ![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-black.svg)
 [![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-black.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
-[![5 manga that make up me](https://img.shields.io/badge/-5%20manga%20that%20make%20up%20me-227766.svg?style=plastic)](https://archive.md/L0tSL)
-[![9 movies that make up me](https://img.shields.io/badge/-9%20movies%20that%20make%20up%20me-3355CC.svg?style=plastic)](https://archive.md/vsnvi)
+[![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-227766.svg)](https://archive.md/L0tSL)
+[![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-3355CC.svg)](https://archive.md/vsnvi)
 
 ---
 
