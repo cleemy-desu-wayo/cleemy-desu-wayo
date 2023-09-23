@@ -27,11 +27,11 @@ https://note.com/cleemy/n/n96474b06fa3b
 language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), psychiatry, personality types, cognitive bias
 
 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby)
-![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python)
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011.svg?logo=gnubash)
-![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-black.svg)
-[![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-black.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
+[![made with Ruby](https://img.shields.io/badge/made%20with-Ruby-CC342D.svg?logo=ruby)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+[![made with Python](https://img.shields.io/badge/made%20with-Python-F9DC3E.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![ade with Shell Script](https://img.shields.io/badge/made%20with-Shell%20Script-1F1A1C.svg?logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+[![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-000000.svg)](https://nvd.nist.gov/vuln/detail/CVE-2022-1271)
+[![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-000000.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
 [![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-226a59.svg)](https://archive.md/L0tSL)
 [![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-3355CC.svg)](https://archive.md/vsnvi)
 
@@ -47,7 +47,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![FeatherPad](https://img.shields.io/badge/-FeatherPad-4976A8.svg)](https://github.com/tsujan/FeatherPad)
 [![Firefox](https://img.shields.io/badge/-Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
 [![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-[![GIMP](https://img.shields.io/badge/-GIMP-53537D.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
+[![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
 [![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
 
 
