@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-09-23](https://img.shields.io/badge/Last%20Modified-2023--09--23-brightgreen)
+![Last Modified 2023-09-26](https://img.shields.io/badge/Last%20Modified-2023--09--26-brightgreen)
 
 - GitLab.com: https://gitlab.com/cleemy-desu-wayo
 - huntr.dev: https://huntr.dev/users/cleemy-desu-wayo/
@@ -22,7 +22,14 @@ https://note.com/cleemy/n/n96474b06fa3b
 
 ---
 
-### Interested in:
+### My repositories
+
+I mainly use GitLab.com  
+https://gitlab.com/users/cleemy-desu-wayo/projects
+
+---
+
+### Interested in
 
 language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), psychiatry, personality types, cognitive bias
 
@@ -37,7 +44,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ---
 
-### I often use:
+### I often use
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613.svg?logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![Lubuntu](https://img.shields.io/badge/-Lubuntu-0065C2.svg?logo=lubuntu)](https://en.wikipedia.org/wiki/Lubuntu)
@@ -46,14 +53,15 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![gruvbox-material](https://img.shields.io/badge/-gruvbox--material-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/sainnhe/gruvbox-material)
 [![FeatherPad](https://img.shields.io/badge/-FeatherPad-4976A8.svg)](https://github.com/tsujan/FeatherPad)
 [![Firefox](https://img.shields.io/badge/-Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
-[![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+[![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
 [![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
+[![Inkscape](https://img.shields.io/badge/-Inkscape-1A1A1A.svg?logo=inkscape)](https://gitlab.com/inkscape/inkscape)
 [![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
 
 
 ---
 
-### Note:
+### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
 - As of September 2023, I have no such thing as an organizational affiliation in the general sense.
@@ -63,7 +71,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ---
 
-### a recent photo:
+### a recent photo
 
 <img src="https://raw.githubusercontent.com/cleemy-desu-wayo/cleemy-desu-wayo/main/files/2023/photo_2023-05-19.png" width="320" height="240" alt="cleemy desu wayo, selfie, 2023-05-19" title="cleemy desu wayo, selfie, 2023-05-19">  
 cleemy desu wayo, selfie, 2023-05-19
