@@ -1,10 +1,10 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-09-26](https://img.shields.io/badge/Last%20Modified-2023--09--26-brightgreen)
+![Last Modified 2023-09-28](https://img.shields.io/badge/Last%20Modified-2023--09--28-brightgreen)
 
-- GitLab.com: https://gitlab.com/cleemy-desu-wayo
-- huntr.dev: https://huntr.dev/users/cleemy-desu-wayo/
-- tech blog (cdwdoc): https://note.com/cleemy/m/ma6e2594d3b8a
+- **GitLab.com:** https://gitlab.com/cleemy-desu-wayo
+- **huntr.dev:** https://huntr.dev/users/cleemy-desu-wayo/
+- **tech blog (cdwdoc):** https://note.com/cleemy/m/ma6e2594d3b8a [![CC BY 4.0](https://img.shields.io/badge/-CC%20BY%204.0-354082.svg?logo=creativecommons&logoColor=white&style=plastic)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 For my thoughts on various web services and my plans for the future, see the following article I posted on note.com in Aug 2023.  
 https://note.com/cleemy/n/n96474b06fa3b  
@@ -71,7 +71,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ---
 
-### a recent photo
+### My recent condition
 
 <img src="https://raw.githubusercontent.com/cleemy-desu-wayo/cleemy-desu-wayo/main/files/2023/photo_2023-05-19.png" width="320" height="240" alt="cleemy desu wayo, selfie, 2023-05-19" title="cleemy desu wayo, selfie, 2023-05-19">  
 cleemy desu wayo, selfie, 2023-05-19
