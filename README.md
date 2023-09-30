@@ -1,10 +1,10 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-09-28](https://img.shields.io/badge/Last%20Modified-2023--09--28-brightgreen)
+![Last Modified 2023-09-30](https://img.shields.io/badge/Last%20Modified-2023--09--30-brightgreen)
 
 - **GitLab.com:** https://gitlab.com/cleemy-desu-wayo
 - **huntr.dev:** https://huntr.dev/users/cleemy-desu-wayo/
-- **tech blog (cdwdoc):** https://note.com/cleemy/m/ma6e2594d3b8a [![CC BY 4.0](https://img.shields.io/badge/-CC%20BY%204.0-354082.svg?logo=creativecommons&logoColor=white&style=plastic)](https://creativecommons.org/licenses/by/4.0/deed.en)
+- **tech blog (cdwdoc):** https://note.com/cleemy/m/ma6e2594d3b8a [![CC BY 4.0](https://img.shields.io/badge/-CC%20BY-354082.svg?logo=creativecommons&logoColor=white&style=plastic)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 For my thoughts on various web services and my plans for the future, see the following article I posted on note.com in Aug 2023.  
 https://note.com/cleemy/n/n96474b06fa3b  
@@ -40,11 +40,11 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-000000.svg)](https://nvd.nist.gov/vuln/detail/CVE-2022-1271)
 [![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-000000.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
 [![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-226a59.svg)](https://archive.md/L0tSL)
-[![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-3355CC.svg)](https://archive.md/vsnvi)
+[![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-294AAB.svg)](https://archive.md/vsnvi)
 
 ---
 
-### I often use
+### I often use:
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613.svg?logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![Lubuntu](https://img.shields.io/badge/-Lubuntu-0065C2.svg?logo=lubuntu)](https://en.wikipedia.org/wiki/Lubuntu)
@@ -58,6 +58,11 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![Inkscape](https://img.shields.io/badge/-Inkscape-1A1A1A.svg?logo=inkscape)](https://gitlab.com/inkscape/inkscape)
 [![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
 
+### Sometimes I donate to:
+
+[![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg?logo=internetarchive)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
+[![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/donate-eff)
+[![donate to Wikimedia Foundation](https://img.shields.io/badge/donated%20to-Wikimedia%20Foundation-006394.svg)](https://donate.wikipedia.org/wiki/Ways_to_Give)
 
 ---
 
