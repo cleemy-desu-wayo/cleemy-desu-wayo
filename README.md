@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-09-30](https://img.shields.io/badge/Last%20Modified-2023--09--30-brightgreen)
+![Last Modified 2023-10-02](https://img.shields.io/badge/Last%20Modified-2023--10--02-brightgreen)
 
 - **GitLab.com:** https://gitlab.com/cleemy-desu-wayo
 - **huntr.dev:** https://huntr.dev/users/cleemy-desu-wayo/
@@ -63,6 +63,18 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 [![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg?logo=internetarchive)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
 [![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/donate-eff)
 [![donate to Wikimedia Foundation](https://img.shields.io/badge/donated%20to-Wikimedia%20Foundation-006394.svg)](https://donate.wikipedia.org/wiki/Ways_to_Give)
+
+---
+
+### About AI
+
+As of Oct 2023, I have never used generative AI at all when coding or bug hunting.
+
+You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
+
+I use DeepL Translate and Google Translate for English text (I write in Japanese first, and then translate them). For this text, I also refer to the translation results of DeepL Translate.
+
+I welcome the fact that my code and my Japanese sentences will be used as "food" for AI.
 
 ---
 
