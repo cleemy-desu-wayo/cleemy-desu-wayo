@@ -60,8 +60,8 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ### Sometimes I donate to:
 
-[![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg?logo=internetarchive)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
-[![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/donate-eff)
+[![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
+[![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)
 [![donate to Wikimedia Foundation](https://img.shields.io/badge/donated%20to-Wikimedia%20Foundation-006394.svg)](https://donate.wikipedia.org/wiki/Ways_to_Give)
 
 ---
@@ -81,7 +81,7 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of September 2023, I have no such thing as an organizational affiliation in the general sense.
+- As of Oct 2023, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
