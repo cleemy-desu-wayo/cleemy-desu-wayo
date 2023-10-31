@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-10-18](https://img.shields.io/badge/Last%20Modified-2023--10--18-brightgreen)
+![Last Modified 2023-10-31](https://img.shields.io/badge/Last%20Modified-2023--10--31-brightgreen)
 
 - **GitLab.com:** https://gitlab.com/cleemy-desu-wayo
 - **huntr.dev:** https://huntr.dev/users/cleemy-desu-wayo/
@@ -12,12 +12,13 @@ https://note.com/cleemy/n/n96474b06fa3b
 
 ---
 
-- Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
+- Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/?locale.lang=en
 - note.com: https://note.com/cleemy/ (essays, tech blog, activity report, etc)
 - ALIS: https://alis.to/users/cleemy (essays I wrote some time ago)
 - Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/ (novel)
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
+- odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
 - BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg (<a href="https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg">history</a>)
 
 ---
