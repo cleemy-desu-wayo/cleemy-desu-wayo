@@ -4,25 +4,13 @@
 
 ### Pinned Projects
 
-#### Outvoke
-
-repository: https://gitlab.com/cleemy-desu-wayo/outvoke  
-Outvoke makes it easy to write code that hooks into the data stream.
-
-#### yass
-
-repository: https://gitlab.com/cleemy-desu-wayo/yass  
-Yet Another Safety Sed
-
-
-#### Github Pages repository for https://cleemy-desu-wayo.github.io/vr/
-
-repository: https://github.com/cleemy-desu-wayo/vr  
-Static Assets for VRChat
+- **Outvoke**: https://gitlab.com/cleemy-desu-wayo/outvoke  
+- **yass**: https://gitlab.com/cleemy-desu-wayo/yass  
+- **Github Pages for /vr/**: https://cleemy-desu-wayo.github.io/vr/
 
 ---
 
-### Accounts
+### My Accounts
 
 - GitLab.com: https://gitlab.com/cleemy-desu-wayo
 - huntr.com: https://huntr.com/users/cleemy-desu-wayo
