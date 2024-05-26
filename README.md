@@ -6,7 +6,7 @@
 
 - **Outvoke**: https://gitlab.com/cleemy-desu-wayo/outvoke  
 - **yass**: https://gitlab.com/cleemy-desu-wayo/yass  
-- **Github Pages for /vr/**: https://cleemy-desu-wayo.github.io/vr/
+- **Github Pages for [/vr/](https://cleemy-desu-wayo.github.io/vr/)**: https://github.com/cleemy-desu-wayo/vr
 
 ---
 
@@ -20,7 +20,7 @@
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
 - Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
-- BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg (<a href="https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg">history</a>)
+- BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg ( [history](https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg) )
 
 ---
 
