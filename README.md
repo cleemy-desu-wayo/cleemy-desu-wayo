@@ -1,32 +1,44 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2023-10-31](https://img.shields.io/badge/Last%20Modified-2023--10--31-brightgreen)
+![Last Modified 2024-05-26](https://img.shields.io/badge/Last%20Modified-2024--05--26-brightgreen)
 
-- **GitLab.com:** https://gitlab.com/cleemy-desu-wayo
-- **huntr.dev:** https://huntr.dev/users/cleemy-desu-wayo/
-- **tech blog (cdwdoc):** https://note.com/cleemy/m/ma6e2594d3b8a [![CC BY 4.0](https://img.shields.io/badge/-CC%20BY-354082.svg?logo=creativecommons&logoColor=white&style=plastic)](https://creativecommons.org/licenses/by/4.0/deed.en)
+### Pinned Projects
 
-For my thoughts on various web services and my plans for the future, see the following article I posted on note.com in Aug 2023.  
-https://note.com/cleemy/n/n96474b06fa3b  
-(NOTE: written in Japanese, and very long)
+#### Outvoke
+
+repository: https://gitlab.com/cleemy-desu-wayo/outvoke  
+Outvoke makes it easy to write code that hooks into the data stream.
+
+#### yass
+
+repository: https://gitlab.com/cleemy-desu-wayo/yass  
+Yet Another Safety Sed
+
+
+#### Github Pages repository for https://cleemy-desu-wayo.github.io/vr/
+
+repository: https://github.com/cleemy-desu-wayo/vr  
+Static Assets for VRChat
 
 ---
 
-- Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/?locale.lang=en
+### Accounts
+
+- GitLab.com: https://gitlab.com/cleemy-desu-wayo
+- huntr.com: https://huntr.com/users/cleemy-desu-wayo
 - note.com: https://note.com/cleemy/ (essays, tech blog, activity report, etc)
 - ALIS: https://alis.to/users/cleemy (essays I wrote some time ago)
 - Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/ (novel)
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
-- odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
+- Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
 - BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg (<a href="https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg">history</a>)
 
 ---
 
-### My repositories
+### Contact Me
 
-I mainly use GitLab.com  
-https://gitlab.com/users/cleemy-desu-wayo/projects
+- odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
 
 ---
 
@@ -69,7 +81,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ### About AI
 
-As of Oct 2023, I have never used generative AI at all when coding or bug hunting.
+As of May 2024, I have never used generative AI at all when coding or bug hunting.
 
 You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
 
@@ -82,7 +94,7 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of Oct 2023, I have no such thing as an organizational affiliation in the general sense.
+- As of May 2024, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - Both now and in the past, I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
