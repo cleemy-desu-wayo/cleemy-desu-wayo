@@ -6,7 +6,7 @@
 
 - **Outvoke**: https://gitlab.com/cleemy-desu-wayo/outvoke  
 - **yass**: https://gitlab.com/cleemy-desu-wayo/yass  
-- **Github Pages for [/vr/](https://cleemy-desu-wayo.github.io/vr/)**: https://github.com/cleemy-desu-wayo/vr
+- **GitHub Pages for [/vr/](https://cleemy-desu-wayo.github.io/vr/)**: https://github.com/cleemy-desu-wayo/vr
 
 ---
 
