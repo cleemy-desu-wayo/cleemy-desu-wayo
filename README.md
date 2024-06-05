@@ -70,7 +70,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ### About AI
 
-As of May 2024, I have never used generative AI at all when coding or bug hunting.
+As of Jun 2024, I have never used generative AI at all when coding or bug hunting.
 
 You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
 
@@ -83,7 +83,7 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of May 2024, I have no such thing as an organizational affiliation in the general sense.
+- As of Jun 2024, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - Both now and in the past, I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
