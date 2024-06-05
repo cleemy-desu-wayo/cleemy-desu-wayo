@@ -20,6 +20,7 @@
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
 - Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
+- x.com: https://x.com/metanagi
 - BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg ( [history](https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg) )
 
 ---
