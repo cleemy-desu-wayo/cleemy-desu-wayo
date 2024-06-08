@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2024-06-05](https://img.shields.io/badge/Last%20Modified-2024--06--05-brightgreen)
+![Last Modified 2024-06-08](https://img.shields.io/badge/Last%20Modified-2024--06--08-brightgreen)
 
 ### Pinned Projects
 
@@ -28,9 +28,9 @@
 ### Contact Me
 
 - odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
--- (feel free to send me a message)
+    - (feel free to send me a message)
 - Discord ID: cleemy5590 (old ID: cleemy5130)
--- (If you're not my discord friend, do not send me a DM)
+    - (If you're not my discord friend, do not send me a DM)
 
 ---
 
