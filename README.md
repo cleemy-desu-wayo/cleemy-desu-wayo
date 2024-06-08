@@ -28,6 +28,9 @@
 ### Contact Me
 
 - odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
+-- (feel free to send me a message)
+- Discord ID: cleemy5590 (old ID: cleemy5130)
+-- (If you're not my discord friend, do not send me a DM)
 
 ---
 
@@ -85,6 +88,7 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
 - As of Jun 2024, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
+- I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
 - Both now and in the past, I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
 
