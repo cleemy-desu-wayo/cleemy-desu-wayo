@@ -27,10 +27,10 @@
 
 ### Contact Me
 
-- odaibako: https://odaibako.net/u/cleemy_desu_wayo (contact form)
-    - (feel free to send me a message)
+- odaibako: https://odaibako.net/u/cleemy_desu_wayo
+    - (this is an anonymous contact form, feel free to send me a message)
 - Discord ID: cleemy5590 (old ID: cleemy5130)
-    - (If you're not my discord friend, do not send me a DM)
+    - (if you're not my discord friend, do not send me a DM)
 
 ---
 
