@@ -96,5 +96,6 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 
 ### My recent condition
 
-<img src="https://raw.githubusercontent.com/cleemy-desu-wayo/cleemy-desu-wayo/main/files/2024/photo_2024-06-26.png" width="360" height="202" alt="cleemy desu wayo, selfie, 2024-06-26" title="cleemy desu wayo, selfie, 2024-06-26">  
-cleemy desu wayo, selfie, 2024-06-26 (a thumbnail of <a href="https://vimeo.com/968534235">vimeo.com/968534235</a>)
+<img src="https://raw.githubusercontent.com/cleemy-desu-wayo/cleemy-desu-wayo/main/files/2024/photo_2024-06-26.png" width="360" height="202" alt="cleemy desu wayo, selfie, 2024-06-26" title="cleemy desu wayo, selfie, 2024-06-26">
+
+cleemy desu wayo, selfie, 2024-06-26 (a thumbnail of [vimeo.com/968534235](https://vimeo.com/968534235))
