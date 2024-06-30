@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2024-06-08](https://img.shields.io/badge/Last%20Modified-2024--06--08-brightgreen)
+![Last Modified 2024-06-30](https://img.shields.io/badge/Last%20Modified-2024--06--30-brightgreen)
 
 ### Pinned Projects
 
