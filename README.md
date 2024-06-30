@@ -29,7 +29,7 @@
 
 - odaibako: https://odaibako.net/u/cleemy_desu_wayo
     - (this is an anonymous contact form, feel free to send me a message)
-- Discord ID: cleemy5590 (old ID: cleemy5130)
+- Discord username: cleemy5590 (old username: cleemy5130)
     - (if you're not my discord friend, do not send me a DM)
 
 ---
