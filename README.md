@@ -1,11 +1,12 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2024-06-30](https://img.shields.io/badge/Last%20Modified-2024--06--30-brightgreen)
+![Last Modified 2024-12-25](https://img.shields.io/badge/Last%20Modified-2024--12--25-brightgreen)
 
 ### Pinned Projects
 
 - **Outvoke**: https://gitlab.com/cleemy-desu-wayo/outvoke  
 - **yass**: https://gitlab.com/cleemy-desu-wayo/yass  
+- **GitLab Pages for [/ov/](https://cleemy-desu-wayo.gitlab.io/ov/)**: https://gitlab.com/cleemy-desu-wayo/ov
 - **GitHub Pages for [/vr/](https://cleemy-desu-wayo.github.io/vr/)**: https://github.com/cleemy-desu-wayo/vr
 
 ---
@@ -20,7 +21,7 @@
 - pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
 - Patreon: https://www.patreon.com/cleemy_desu_wayo/about
 - Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
-- x.com: https://x.com/metanagi
+- X: https://x.com/metanagi
 - BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg ( [history](https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg) )
 
 ---
@@ -29,7 +30,7 @@
 
 - odaibako: https://odaibako.net/u/cleemy_desu_wayo
     - (this is an anonymous contact form, feel free to send me a message)
-- Discord username: cleemy5590 (old username: cleemy5130)
+- Discord username: cleemy5590
     - (if you're not my discord friend, do not send me a DM)
 
 ---
@@ -73,7 +74,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ### About AI
 
-As of Jun 2024, I have never used generative AI at all when coding or bug hunting.
+As of Dec 2024, I have never used generative AI at all when coding or bug hunting.
 
 You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
 
@@ -86,11 +87,11 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of Jun 2024, I have no such thing as an organizational affiliation in the general sense.
+- As of Dec 2024, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
-- Both now and in the past, I don't have any account on Facebook, Instagram, LinkedIn, mixi, GREE or LINE.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
+- Both now and in the past, I don't have any account on Facebook, TikTok, Instagram, LinkedIn, mixi, GREE or LINE. (I did create an account on mixi2 btw)
 
 ---
 
