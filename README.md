@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2024-12-25](https://img.shields.io/badge/Last%20Modified-2024--12--25-brightgreen)
+![Last Modified 2025-05-20](https://img.shields.io/badge/Last%20Modified-2025--05--20-brightgreen)
 
 ### Pinned Projects
 
@@ -74,7 +74,7 @@ language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but 
 
 ### About AI
 
-As of Dec 2024, I have never used generative AI at all when coding or bug hunting.
+As of May 2025, I have never used generative AI at all when coding or bug hunting.
 
 You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
 
@@ -87,10 +87,11 @@ I welcome the fact that my code and my Japanese sentences will be used as "food"
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of Dec 2024, I have no such thing as an organizational affiliation in the general sense.
+- As of May 2025, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
+- I have been using the name "cleemy" since [2005](https://web.archive.org/web/20051030030928/http://d.hatena.ne.jp/cleemy/about).
 - Both now and in the past, I don't have any account on Facebook, TikTok, Instagram, LinkedIn, mixi, GREE or LINE. (I did create an account on mixi2 btw)
 
 ---
