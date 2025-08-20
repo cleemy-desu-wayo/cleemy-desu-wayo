@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2025-05-20](https://img.shields.io/badge/Last%20Modified-2025--05--20-brightgreen)
+![Last Modified 2025-08-20](https://img.shields.io/badge/Last%20Modified-2025--08--20-brightgreen)
 
 ### Pinned Projects
 
@@ -37,62 +37,64 @@
 
 ### Interested in
 
-language, DSL, logical paradox, blockchain, Bitcoin, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), psychiatry, personality types, cognitive bias
+language, dialect, DSL, logical paradox, cypherpunk, OSS, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), synchronicity, psychiatry, personality types, cognitive bias
 
 
 [![made with Ruby](https://img.shields.io/badge/made%20with-Ruby-CC342D.svg?logo=ruby)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 [![made with Python](https://img.shields.io/badge/made%20with-Python-F9DC3E.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![ade with Shell Script](https://img.shields.io/badge/made%20with-Shell%20Script-1F1A1C.svg?logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
-[![CVE-2022-1271](https://img.shields.io/badge/found-CVE--2022--1271-000000.svg)](https://nvd.nist.gov/vuln/detail/CVE-2022-1271)
-[![CVE-2022-1509](https://img.shields.io/badge/found-CVE--2022--1509-000000.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
+[![CVE-2022-1271](https://img.shields.io/badge/I%20found-CVE--2022--1271-000000.svg)](https://nvd.nist.gov/vuln/detail/CVE-2022-1271)
+[![CVE-2022-1509](https://img.shields.io/badge/I%20found-CVE--2022--1509-000000.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
 [![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-226a59.svg)](https://archive.md/L0tSL)
 [![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-294AAB.svg)](https://archive.md/vsnvi)
 
 ---
 
-### I often use:
-
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613.svg?logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
-[![Lubuntu](https://img.shields.io/badge/-Lubuntu-0065C2.svg?logo=lubuntu)](https://en.wikipedia.org/wiki/Lubuntu)
-[![Debian](https://img.shields.io/badge/-Debian-123356.svg?logo=debian)](https://en.wikipedia.org/wiki/Debian)
-[![Vim](https://img.shields.io/badge/-Vim-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/vim/vim)
-[![gruvbox-material](https://img.shields.io/badge/-gruvbox--material-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/sainnhe/gruvbox-material)
-[![FeatherPad](https://img.shields.io/badge/-FeatherPad-4976A8.svg)](https://github.com/tsujan/FeatherPad)
-[![Firefox](https://img.shields.io/badge/-Firefox-332C59.svg?logo=firefoxbrowser)](https://en.wikipedia.org/wiki/Firefox)
-[![Chromium](https://img.shields.io/badge/-Chromium-2B3351.svg?logo=googlechrome)](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
-[![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
-[![Inkscape](https://img.shields.io/badge/-Inkscape-1A1A1A.svg?logo=inkscape)](https://gitlab.com/inkscape/inkscape)
-[![VLC media player](https://img.shields.io/badge/-VLC%20media%20player-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
-
-### Sometimes I donate to:
-
-[![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
-[![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)
-[![donate to Wikimedia Foundation](https://img.shields.io/badge/donated%20to-Wikimedia%20Foundation-006394.svg)](https://donate.wikipedia.org/wiki/Ways_to_Give)
-
----
-
 ### About AI
 
-As of May 2025, I have never used generative AI at all when coding or bug hunting.
+As of Aug 2025, I have never used AI when coding or bug hunting.  
+2025年8月時点では、わたくしはコードを書く時やバグハンティングの際にAIを使ったことはありません。
 
-You are welcome to point out to me any bugs you find using AI that are in the code I wrote.
+I welcome you to identify any bugs in my code that are detected using AI.  
+わたくしの書いたコードについて、もしあなたがAIを使用してバグを見つけた場合、それを指摘するのは歓迎します。
 
-I use DeepL Translate and Google Translate for English text (I write in Japanese first, and then translate them). For this text, I also refer to the translation results of DeepL Translate.
+For crafting English text, I use Grok, DeepL, and Google Translate. I write in Japanese first, and then translate them. The same goes for this sentence, I used these AI tools for translation. I started using Grok for translation in July 2025.  
+英語の文章作成には、GrokやDeepLやGoogle翻訳を使用しています。まず日本語で文章を書いてから、翻訳しています。この文章についてもそうで、翻訳の際にこれらのAIを使っています。わたくしがGrokを翻訳に使い始めたのは2025年7月です。
 
-I welcome the fact that my code and my Japanese sentences will be used as "food" for AI.
+I welcome my code and my Japanese writing being used as "food" for AI.  
+わたくしの書いたコードや日本語の文章が、AIの「エサ」として利用されることは歓迎します。
 
 ---
 
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of May 2025, I have no such thing as an organizational affiliation in the general sense.
+- As of Aug 2025, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
 - I have been using the name "cleemy" since [2005](https://web.archive.org/web/20051030030928/http://d.hatena.ne.jp/cleemy/about).
-- Both now and in the past, I don't have any account on Facebook, TikTok, Instagram, LinkedIn, mixi, GREE or LINE. (I did create an account on mixi2 btw)
+- Both now and in the past, I don't have any account on LINE, Instagram, TikTok, Facebook, LinkedIn, mixi or GREE. (I did create an account on mixi2 btw)
+
+---
+
+### Misc
+
+I often use:
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613.svg?logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![Lubuntu](https://img.shields.io/badge/-Kubuntu-007AC2.svg?logo=kubuntu)](https://en.wikipedia.org/wiki/Kubuntu)
+[![Lubuntu](https://img.shields.io/badge/-Lubuntu-0065C2.svg?logo=lubuntu)](https://en.wikipedia.org/wiki/Lubuntu)
+[![Vim](https://img.shields.io/badge/-Vim-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/vim/vim)
+[![gruvbox-material](https://img.shields.io/badge/-gruvbox--material-262626.svg?logo=vim&logoColor=69B07A)](https://github.com/sainnhe/gruvbox-material)
+[![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?logo=gimp)](https://gitlab.gnome.org/GNOME/gimp)
+[![VLC](https://img.shields.io/badge/-VLC-F08000.svg?logo=vlcmediaplayer&logoColor=white)](https://github.com/videolan/vlc)
+
+Sometimes I donate to:
+[![donate to Internet Archive](https://img.shields.io/badge/donated%20to-Internet%20Archive-231E1E.svg)](https://help.archive.org/help/do-you-accept-cryptocurrency/)
+[![donate to EFF](https://img.shields.io/badge/donated%20to-EFF-EC1E1E.svg)](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)
+[![donate to Wikimedia Foundation](https://img.shields.io/badge/donated%20to-Wikimedia%20Foundation-006394.svg)](https://donate.wikipedia.org/wiki/Ways_to_Give)
+
+
 
 ---
 
