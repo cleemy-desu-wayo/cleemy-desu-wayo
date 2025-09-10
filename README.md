@@ -1,28 +1,26 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2025-08-20](https://img.shields.io/badge/Last%20Modified-2025--08--20-brightgreen)
-
-### Pinned Projects
-
-- **Outvoke**: https://gitlab.com/cleemy-desu-wayo/outvoke  
-- **yass**: https://gitlab.com/cleemy-desu-wayo/yass  
-- **GitLab Pages for [/ov/](https://cleemy-desu-wayo.gitlab.io/ov/)**: https://gitlab.com/cleemy-desu-wayo/ov
-- **GitHub Pages for [/vr/](https://cleemy-desu-wayo.github.io/vr/)**: https://github.com/cleemy-desu-wayo/vr
+![Last Modified 2025-09-10](https://img.shields.io/badge/Last%20Modified-2025--09--10-brightgreen)
 
 ---
 
-### My Accounts
+**Pinned:** [Outvoke](https://gitlab.com/cleemy-desu-wayo/outvoke) -
+[koregusu0.1](https://gitlab.com/cleemy-desu-wayo/koregusu0.1) -
+[yass](https://gitlab.com/cleemy-desu-wayo/yass) -
+[noshow.sh](https://gitlab.com/cleemy-desu-wayo/noshow.sh) -
+[/ov](https://gitlab.com/cleemy-desu-wayo/ov) -
+[/vr (GitHub Pages)](https://github.com/cleemy-desu-wayo/vr)
 
-- GitLab.com: https://gitlab.com/cleemy-desu-wayo
-- huntr.com: https://huntr.com/users/cleemy-desu-wayo
-- note.com: https://note.com/cleemy/ (essays, tech blog, activity report, etc)
-- ALIS: https://alis.to/users/cleemy (essays I wrote some time ago)
-- Shōsetsuka ni Narō: https://mypage.syosetu.com/1940328/ (novel)
-- pixivFANBOX: https://cleemy-desu-wayo.fanbox.cc/
-- Patreon: https://www.patreon.com/cleemy_desu_wayo/about
-- Hatena Profile Page: https://profile.hatena.ne.jp/cleemy/
-- X: https://x.com/metanagi
-- BTC Address: 1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg ( [history](https://chainflyer.bitflyer.jp/Address/1cdw47Vkte3oCRSEBXW9hedc7ixbpJkSg) )
+**My Accounts:** [GitLab.com](https://gitlab.com/cleemy-desu-wayo) -
+[huntr.com](https://huntr.com/users/cleemy-desu-wayo) -
+[X](https://x.com/metanagi) -
+[note](https://note.com/cleemy/) -
+[ALIS](https://alis.to/users/cleemy) -
+[Narō](https://mypage.syosetu.com/1940328/) -
+[Hatena](https://profile.hatena.ne.jp/cleemy/) -
+[pixivFANBOX](https://cleemy-desu-wayo.fanbox.cc/) -
+[Patreon](https://www.patreon.com/cleemy_desu_wayo/about) -
+[odaibako](https://odaibako.net/u/cleemy_desu_wayo)
 
 ---
 
@@ -44,7 +42,7 @@ language, dialect, DSL, logical paradox, cypherpunk, OSS, making tech doujinshi 
 [![made with Python](https://img.shields.io/badge/made%20with-Python-F9DC3E.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![ade with Shell Script](https://img.shields.io/badge/made%20with-Shell%20Script-1F1A1C.svg?logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![CVE-2022-1271](https://img.shields.io/badge/I%20found-CVE--2022--1271-000000.svg)](https://nvd.nist.gov/vuln/detail/CVE-2022-1271)
-[![CVE-2022-1509](https://img.shields.io/badge/I%20found-CVE--2022--1509-000000.svg)](https://huntr.dev/bounties/09e69dff-f281-4e51-8312-ed7ab7606338/)  
+[![CVE-2022-1509](https://img.shields.io/badge/I%20found-CVE--2022--1509-000000.svg)](https://huntr.com/bounties/09e69dff-f281-4e51-8312-ed7ab7606338)  
 [![5 manga that make up me](https://img.shields.io/badge/5%20manga-that%20make%20up%20me-226a59.svg)](https://archive.md/L0tSL)
 [![9 movies that make up me](https://img.shields.io/badge/9%20movies-that%20make%20up%20me-294AAB.svg)](https://archive.md/vsnvi)
 
@@ -103,3 +101,4 @@ Sometimes I donate to:
 <img src="https://raw.githubusercontent.com/cleemy-desu-wayo/cleemy-desu-wayo/main/files/2024/photo_2024-06-26.png" width="360" height="202" alt="cleemy desu wayo, selfie, 2024-06-26" title="cleemy desu wayo, selfie, 2024-06-26">
 
 cleemy desu wayo, selfie, 2024-06-26 (a thumbnail of [vimeo.com/968534235](https://vimeo.com/968534235))
+
