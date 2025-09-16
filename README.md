@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2025-09-10](https://img.shields.io/badge/Last%20Modified-2025--09--10-brightgreen)
+![Last Modified 2025-09-16](https://img.shields.io/badge/Last%20Modified-2025--09--16-brightgreen)
 
 ---
 
@@ -12,6 +12,8 @@
 [/vr (GitHub Pages)](https://github.com/cleemy-desu-wayo/vr)
 
 **My Accounts:** [GitLab.com](https://gitlab.com/cleemy-desu-wayo) -
+[GitLab Snippets](https://gitlab.com/users/cleemy-desu-wayo/snippets) -
+[Gist](https://gist.github.com/cleemy-desu-wayo) -
 [huntr.com](https://huntr.com/users/cleemy-desu-wayo) -
 [X](https://x.com/metanagi) -
 [note](https://note.com/cleemy/) -
