@@ -1,21 +1,22 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2025-09-16](https://img.shields.io/badge/Last%20Modified-2025--09--16-brightgreen)
+![Last Modified 2025-12-03](https://img.shields.io/badge/Last%20Modified-2025--12--03-brightgreen)
 
 ---
 
-**Pinned:** [Outvoke](https://gitlab.com/cleemy-desu-wayo/outvoke) -
+**pinned repos:** [Outvoke](https://gitlab.com/cleemy-desu-wayo/outvoke) -
 [koregusu0.1](https://gitlab.com/cleemy-desu-wayo/koregusu0.1) -
 [yass](https://gitlab.com/cleemy-desu-wayo/yass) -
 [noshow.sh](https://gitlab.com/cleemy-desu-wayo/noshow.sh) -
 [/ov](https://gitlab.com/cleemy-desu-wayo/ov) -
 [/vr (GitHub Pages)](https://github.com/cleemy-desu-wayo/vr)
 
-**My Accounts:** [GitLab.com](https://gitlab.com/cleemy-desu-wayo) -
+**my accounts 1:** [GitLab.com](https://gitlab.com/cleemy-desu-wayo) -
 [GitLab Snippets](https://gitlab.com/users/cleemy-desu-wayo/snippets) -
-[Gist](https://gist.github.com/cleemy-desu-wayo) -
+[GitHub Gist](https://gist.github.com/cleemy-desu-wayo) -
 [huntr.com](https://huntr.com/users/cleemy-desu-wayo) -
-[X](https://x.com/metanagi) -
+[OpenProcessing](https://openprocessing.org/user/562518/)  
+**my accounts 2:** [X](https://x.com/metanagi) -
 [note](https://note.com/cleemy/) -
 [ALIS](https://alis.to/users/cleemy) -
 [Narō](https://mypage.syosetu.com/1940328/) -
@@ -26,18 +27,11 @@
 
 ---
 
-### Contact Me
-
-- odaibako: https://odaibako.net/u/cleemy_desu_wayo
-    - (this is an anonymous contact form, feel free to send me a message)
-- Discord username: cleemy5590
-    - (if you're not my discord friend, do not send me a DM)
-
----
-
 ### Interested in
 
 language, dialect, DSL, logical paradox, cypherpunk, OSS, making tech doujinshi (but I haven't been able to print any books yet), Ruby, Python, Shell Script, vulnerability, bug hunting, single-board computer, retro game, AI (mainly about social impact), VR (but I only have a Takara Dynovisor), freedom of speech, novel writing, essay writing, manga reading, shamanism, telepathy (ESP), synchronicity, psychiatry, personality types, cognitive bias
+
+言語、方言、DSL、論理パラドックス、サイファーパンク、OSS、技術同人誌作成（ただしまだ1冊もできてない）、Ruby、Python、シェルスクリプト、脆弱性、バグハンティング、シングルボードコンピューター、レトロゲーム、AI（主に社会的影響面）、VR（ただしダイノバイザーしか持ってない）、言論の自由、小説執筆、エッセイ執筆、漫画（読み専）、シャーマニズム、テレパシー（ESP）、シンクロニシティー、精神医学、パーソナリティータイプ、認知バイアス
 
 
 [![made with Ruby](https://img.shields.io/badge/made%20with-Ruby-CC342D.svg?logo=ruby)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
@@ -52,14 +46,17 @@ language, dialect, DSL, logical paradox, cypherpunk, OSS, making tech doujinshi 
 
 ### About AI
 
-As of Aug 2025, I have never used AI when coding or bug hunting.  
-2025年8月時点では、わたくしはコードを書く時やバグハンティングの際にAIを使ったことはありません。
+As of Dec 2025, I have never used AI when coding or bug hunting.  
+2025年12月時点では、わたくしはコードを書く時やバグハンティングの際にAIを使ったことはありません。
 
 I welcome you to identify any bugs in my code that are detected using AI.  
 わたくしの書いたコードについて、もしあなたがAIを使用してバグを見つけた場合、それを指摘するのは歓迎します。
 
 For crafting English text, I use Grok, DeepL, and Google Translate. I write in Japanese first, and then translate them. The same goes for this sentence, I used these AI tools for translation. I started using Grok for translation in July 2025.  
 英語の文章作成には、GrokやDeepLやGoogle翻訳を使用しています。まず日本語で文章を書いてから、翻訳しています。この文章についてもそうで、翻訳の際にこれらのAIを使っています。わたくしがGrokを翻訳に使い始めたのは2025年7月です。
+
+I sometimes use AI to check whether documents I have written, such as README files, are understandable to typical AIs at the time of testing.  
+自分で書いたドキュメント（READMEなどを含む）が、チェック時点における一般的なAIにとって理解可能な文章になっているかのチェックのためにAIを使用することもあります。
 
 I welcome my code and my Japanese writing being used as "food" for AI.  
 わたくしの書いたコードや日本語の文章が、AIの「エサ」として利用されることは歓迎します。
@@ -69,7 +66,7 @@ I welcome my code and my Japanese writing being used as "food" for AI.
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of Aug 2025, I have no such thing as an organizational affiliation in the general sense.
+- As of Dec 2025, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
