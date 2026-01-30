@@ -1,6 +1,6 @@
 # Hi! I'm cleemy desu wayo.
 
-![Last Modified 2025-12-03](https://img.shields.io/badge/Last%20Modified-2025--12--03-brightgreen)
+![Last Modified 2026-01-30](https://img.shields.io/badge/Last%20Modified-2026--01--30-brightgreen)
 
 ---
 
@@ -18,11 +18,12 @@
 [OpenProcessing](https://openprocessing.org/user/562518/)  
 **my accounts 2:** [X](https://x.com/metanagi) -
 [note](https://note.com/cleemy/) -
-[ALIS](https://alis.to/users/cleemy) -
 [Narō](https://mypage.syosetu.com/1940328/) -
+[ALIS](https://alis.to/users/cleemy) -
 [Hatena](https://profile.hatena.ne.jp/cleemy/) -
 [pixivFANBOX](https://cleemy-desu-wayo.fanbox.cc/) -
 [Patreon](https://www.patreon.com/cleemy_desu_wayo/about) -
+[lit.link](https://lit.link/cleemy) -
 [odaibako](https://odaibako.net/u/cleemy_desu_wayo)
 
 ---
@@ -46,8 +47,8 @@ language, dialect, DSL, logical paradox, cypherpunk, OSS, making tech doujinshi 
 
 ### About AI
 
-As of Dec 2025, I have never used AI when coding or bug hunting.  
-2025年12月時点では、わたくしはコードを書く時やバグハンティングの際にAIを使ったことはありません。
+As of Jan 2026, I have never used AI when coding or bug hunting.  
+2026年1月時点では、わたくしはコードを書く時やバグハンティングの際にAIを使ったことはありません。
 
 I welcome you to identify any bugs in my code that are detected using AI.  
 わたくしの書いたコードについて、もしあなたがAIを使用してバグを見つけた場合、それを指摘するのは歓迎します。
@@ -66,7 +67,7 @@ I welcome my code and my Japanese writing being used as "food" for AI.
 ### Note
 
 - Both now and in the past, I (cleemy desu wayo) am an individual, not a group.
-- As of Dec 2025, I have no such thing as an organizational affiliation in the general sense.
+- As of Jan 2026, I have no such thing as an organizational affiliation in the general sense.
 - The official name is "cleemy desu wayo" in all lower case, but it doesn't matter if capital letters are mixed in.
 - I do not have any kind of secret accounts or real name accounts, or any activities under any other name.
 - I have absolutely nothing to do with an expense report software called "Cleemy".
